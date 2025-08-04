@@ -1,0 +1,6 @@
+int16 motor1_vector_left
+int16 motor2_vector_right
+int16 motor3_heavy_left_fwd
+int16 motor4_heavy_right_fwd
+int16 motor5_heavy_left_aft
+int16 motor6_heavy_right_aft
