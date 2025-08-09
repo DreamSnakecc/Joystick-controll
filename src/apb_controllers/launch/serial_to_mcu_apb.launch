@@ -3,4 +3,7 @@
       <param name="serial_port" type="string" value="/dev/ttyUSB0" />
       <param name="baudrate" type="int" value="115200" />
     </node>
+    <node pkg="apb_teleop" name="logicool_controller_apb" type="logicool_controller_apb" output="screen">
+    </node>
 </launch>
+
